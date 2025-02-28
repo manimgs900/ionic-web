@@ -18,5 +18,35 @@
         "productId" : 1004,
         "productName": "White Car",
         "productImage": "src/assets/img/WhiteCar.JPG"
+    },
+    {
+        "productId" : 1005,
+        "productName": "Doraemon",
+        "productImage": "src/assets/img/Doraemon.JPG"
+    },
+    {
+        "productId" : 1006,
+        "productName": "Football",
+        "productImage": "src/assets/img/Football.JPG"
+    },
+    {
+        "productId" : 1007,
+        "productName": "Monster",
+        "productImage": "src/assets/img/Monstaer.JPG"
+    },
+    {
+        "productId" : 1008,
+        "productName": "Mini Mouse",
+        "productImage": "src/assets/img/Mini.JPG"
+    },
+    {
+        "productId" : 1009,
+        "productName": "Panda",
+        "productImage": "src/assets/img/Panda.JPG"
+    },
+    {
+        "productId" : 1010,
+        "productName": "White Dog",
+        "productImage": "src/assets/img/WhiteDog.JPG"
     }
 ]
