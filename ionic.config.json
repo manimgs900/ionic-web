@@ -1,0 +1,7 @@
+{
+  "name": "GrimTo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

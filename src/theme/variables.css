@@ -1,0 +1,72 @@
+/* For information on how to create your own theme, please see:
+http://ionicframework.com/docs/theming/ */
+.appBackground {
+    background-color: brown;
+}
+
+:host {
+    background-color: brown;
+}
+
+.img1 {
+    width: 50%;
+    height: 20%;
+}
+
+.bannerBtn {
+    --background: midnightblue;
+    --background-hover: midnightblue;
+
+    --color: white;
+    --ripple-color: deeppink;
+
+    position: absolute;
+    top: 50%;
+    left: 65%;
+}
+
+.categoryTitle {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.category {
+    margin: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.desc {
+    margin-top: 1px;
+    color: darkgray;
+}
+
+.verticalSeparator {
+    border-right: 1px solid lightgrey;
+}
+
+.iconHeader {
+    width: 30%;
+    height: fit-content;
+}
+
+.horizontalSeparator {
+    border-bottom: 1px solid lightgrey;
+    font-weight: bold;
+    color: black;
+}
+
+.contact {
+    background-color: burlywood;
+    font-weight: bold;
+    color: black;
+}
+
+.input {
+    background-color: white;
+}
+
+.submitBtn {
+    background-color:blue;
+    color: white;
+}

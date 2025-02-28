@@ -1,0 +1,22 @@
+[
+    {
+        "productId" : 1001,
+        "productName": "Harley-Davidson",
+        "productImage": "src/assets/img/HD1.JPG"
+    },
+    {
+        "productId" : 1002,
+        "productName": "Red Car",
+        "productImage": "src/assets/img/RedCar.JPG"
+    },
+    {
+        "productId" : 1003,
+        "productName": "Transformer Car",
+        "productImage": "src/assets/img/Transformer.JPG"
+    },
+    {
+        "productId" : 1004,
+        "productName": "White Car",
+        "productImage": "src/assets/img/WhiteCar.JPG"
+    }
+]
